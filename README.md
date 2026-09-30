@@ -9,7 +9,7 @@ each task enough instructions and acceptance criteria for execution.
 Requires Node.js and npm.
 
 ```sh
-npx skills add amdlemos/skill-review-plan --skill plan-review
+npx skills add amdlemos/plan-review --skill plan-review
 ```
 
 The CLI lets you choose the agent and installation scope.
